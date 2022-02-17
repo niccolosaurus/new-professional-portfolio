@@ -35,15 +35,9 @@ https://choosealicense.com/licenses/mit/
 MIT License
 
 Copyright (c) [2022] [Niccolo Eck]
-
-
-### Contribution
-n/a
-
-### Test-Instructions
-n/a
+### Link to Portfolio
+https://niccolosaurus.github.io/new-professional-portfolio/
 
 ### Questions
 [Github Profie](https://github.com/Niccolosaurus)
 nicco.eck@gmail.com
-
