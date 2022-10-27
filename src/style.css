@@ -114,6 +114,7 @@ p {
 
 .photo {
     width: 300px;
+    height: 300px;
     border-radius: 150px;
     margin-left: 80px;
 }
